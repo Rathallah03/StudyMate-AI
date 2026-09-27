@@ -1,6 +1,6 @@
 # 📚 StudyMate AI
 
-**StudyMate AI** adalah chatbot pembelajaran berbasis Large Language Model (LLM) yang membantu mahasiswa memahami materi, membuat ringkasan, dan berlatih melalui quiz.
+**StudyMate AI** adalah chatbot pembelajaran berbasis LLM yang dapat membantu mahasiswa memahami materi, membuat ringkasan, dan berlatih melalui quiz.
 
 Project ini dibuat sebagai Final Project untuk training **LLM-Based Tools and Gemini API Integration for Data Scientists**.
 
@@ -76,11 +76,9 @@ Buat file `.env` dari `.env.example`.
 Isi:
 
 ```env
-GEMINI_API_KEY=API_KEY_KAMU
+GEMINI_API_KEY=-------- (Menggunakan API key Gemini)
 GEMINI_MODEL=gemini-3.8-flash
 ```
-
-> Jangan upload `.env` ke GitHub. File tersebut sudah dimasukkan ke `.gitignore`.
 
 ### 5. Jalankan aplikasi
 
