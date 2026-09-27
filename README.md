@@ -8,7 +8,7 @@ Project ini dibuat sebagai Final Project untuk training **LLM-Based Tools and Ge
 
 - 💬 Chatbot berbasis Gemini API
 - 🧠 Konteks percakapan / chat history
-- 🗣️ Pilihan gaya bahasa:
+- 🗣️ Bisa pilihan gaya bahasa:
   - Sederhana
   - Santai
   - Formal
@@ -16,7 +16,7 @@ Project ini dibuat sebagai Final Project untuk training **LLM-Based Tools and Ge
   - Penjelasan
   - Ringkasan
   - Quiz
-- 🌡️ Pengaturan tingkat kreativitas (temperature)
+- 🌡️ Pengaturan tingkat temprature
 - 🗑️ Tombol untuk menghapus percakapan
 - 🌐 User interface berbasis Streamlit
 
