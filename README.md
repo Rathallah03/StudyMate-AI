@@ -38,7 +38,7 @@ Response
 Streamlit UI
 ```
 
-## 🛠️ Teknologi
+## 🛠️ Tools
 
 - Python
 - Streamlit
@@ -50,11 +50,11 @@ Streamlit UI
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/StudyMate-AI.git
+git clone https://github.com/Rathallah03/StudyMate-AI.git
 cd StudyMate-AI
 ```
 
-### 2. Buat virtual environment (opsional tetapi disarankan)
+### 2. Buat virtual environment
 
 Windows:
 
@@ -86,7 +86,7 @@ GEMINI_MODEL=gemini-3.8-flash
 streamlit run app.py
 ```
 
-Aplikasi akan terbuka di browser.
+Aplikasi akan terbuka di browser otomatis.
 
 ## 📌 Final Project
 
