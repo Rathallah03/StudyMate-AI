@@ -1,4 +1,4 @@
-# 📚 StudyMate AI
+# StudyMate AI
 
 **StudyMate AI** adalah chatbot pembelajaran berbasis LLM yang dapat membantu mahasiswa memahami materi, membuat ringkasan, dan berlatih melalui quiz.
 
@@ -87,16 +87,6 @@ streamlit run app.py
 ```
 
 Aplikasi akan terbuka di browser.
-
-## 📸 Contoh pengujian
-
-Beberapa pertanyaan yang dapat digunakan:
-
-- "Apa itu machine learning?"
-- "Jelaskan overfitting dengan analogi sederhana."
-- "Buatkan rangkuman tentang supervised learning."
-- "Buatkan quiz 5 soal tentang Python."
-- "Apa perbedaan classification dan regression?"
 
 ## 📌 Final Project
 
